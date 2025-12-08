@@ -1,0 +1,20 @@
+[{
+  "Name":"Jerry",
+  "Age": 24,
+  "City":"Tirunelveli"
+},{
+   "Name":"Kalvin",
+  "Age": 26,
+  "City":"Bangalore"
+
+},{
+   "Name":"Edison",
+  "Age": 30,
+  "City":"Italy"
+
+},{
+   "Name":"Akash",
+  "Age": 19,
+  "City":"Trichy"
+
+}]

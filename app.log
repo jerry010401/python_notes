@@ -1,0 +1,4 @@
+2025-12-06 14:07:48,411 - INFO -Dividing 20 by 4
+2025-12-06 14:07:48,411 - DEBUG -Result : 5.0
+2025-12-06 14:07:48,411 - INFO -Dividing 30 by 0
+2025-12-06 14:07:48,411 - ERROR -Tried to divide by zero!
