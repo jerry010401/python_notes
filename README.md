@@ -16,7 +16,7 @@ The app displays a title and header, asks for the user’s name, greets them if 
 
 ### Installation
 
-1. (Optional) Create and activate a virtual environment:
+1. Create and activate a virtual environment:
    ```bash
    python -m venv .env
    source .env/bin/activate   # On Windows: .env\Scripts\activate
